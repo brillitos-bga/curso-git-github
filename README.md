@@ -19,3 +19,8 @@ Practicar el uso de Git y GitHub para organizar proyectos, guardar cambios y com
 
 ## Autora
 Brigitte González Alvarado
+## Mi experiencia
+
+Durante esta actividad aprendí a crear un repositorio,
+utilizar comandos de Git y guardar los cambios de mi proyecto.
+También aprendí a conectar mi repositorio local con GitHub.
